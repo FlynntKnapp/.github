@@ -5,7 +5,7 @@
 ### Python
 
 * [`self`](https://github.com/FlynntKnapp/python-self)
-
+* [`__str__`](https://github.com/FlynntKnapp/python-dunder-str)
 <!--
 
 **Here are some ideas to get you started:**
