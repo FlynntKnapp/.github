@@ -1,5 +1,11 @@
 # FlynntKnapp
 
+## Examples
+
+### Python
+
+* [`self`](https://github.com/FlynntKnapp/python-self)
+
 <!--
 
 **Here are some ideas to get you started:**
