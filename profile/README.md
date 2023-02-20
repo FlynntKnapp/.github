@@ -10,6 +10,11 @@
 * [`self`](https://github.com/FlynntKnapp/python-self)
 * :construction: _**UNDER CONSTRUCTION**_ :construction:
   * [`__str__`](https://github.com/FlynntKnapp/python-dunder-str)
+
+### Django
+
+* [`AnonymousUser`](https://github.com/FlynntKnapp/django-03-anonymous-user)
+
 <!--
 
 **Here are some ideas to get you started:**
