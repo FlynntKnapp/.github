@@ -13,7 +13,6 @@
 
 ### Django
 
-* [`AnonymousUser`](https://github.com/FlynntKnapp/django-03-anonymous-user)
 
 <!--
 
