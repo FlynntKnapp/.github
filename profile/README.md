@@ -3,18 +3,6 @@
 * Repositories:
   * <https://github.com/orgs/FlynntKnapp/repositories>
 
-## Examples
-
-### Python
-
-* [`self`](https://github.com/FlynntKnapp/python-self)
-* :construction: _**UNDER CONSTRUCTION**_ :construction:
-  * [`__str__`](https://github.com/FlynntKnapp/python-dunder-str)
-
-### Django
-
-* [Using `ModelForm` and `FormView`](https://github.com/FlynntKnapp/django-ModelForm-FormView)
-
 <!--
 
 **Here are some ideas to get you started:**
